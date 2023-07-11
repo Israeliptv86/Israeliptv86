@@ -49,13 +49,13 @@ https://dash-s6-n10-nl-cdn.eporner.com/hls/v6/7931066-,240,360,480,720,1080,p.mp
 https://dash-s15-n10-nl-cdn.eporner.com/hls/srv10/7635330-720p.mp4/index-v1-a1.m3u8?hash=3b0vhM5XPFV5c5FmiNVT0w&expires=1689187400&ip=177.200.14.122&id=7635330
 
 #EXTINF:-1 tvg-id="adultos" tvg-name= "adultos" tvg-logo="https://gogosmart.pro/wp-content/uploads/2022/11/18.jpg" group-title="Canais",Adultos
-https://ahmpd.boafoda.com/key=IkvfOiTsKi5ou0xMU1W37Q,end=1689068148/media=dashA/multi=6,7,8,12,13/videos/2021/01/442766__TPL_.mp4
+https://video3.xhcdn.com/key=sotmCD88AWMOAnZjp94bDg,end=1689112800/data=177.200.14.122-mv/media=hls4/023/515/763/1080p.h264.mp4.m3u8
 
 #EXTINF:-1 tvg-id="adultos" tvg-name= "adultos" tvg-logo="https://gogosmart.pro/wp-content/uploads/2022/11/18.jpg" group-title="Canais",Adultos
-https://ahmpd.boafoda.com/key=06fCBpvdJOY11ddqR8MvIQ,end=1689069319/media=dashA/multi=6,7,8,12,13/videos/2016/04/153456__TPL_.mp4
+https://video-lmo.xhcdn.com/token=nva=1689112800~dirs=5~hash=00b0fa37beefc2179af30/media=hls4/multi=256x144:144p,426x240:240p,1280x720:720p/003/014/014/720p.h264.mp4.m3u8
 
 #EXTINF:-1 tvg-id="adultos" tvg-name= "adultos" tvg-logo="https://gogosmart.pro/wp-content/uploads/2022/11/18.jpg" group-title="Canais",Adultos
-https://ahmpd.boafoda.com/key=LU7yz-UFM6dmdj1nZx6BUA,end=1689069422/media=dashA/multi=6,7,8,12,13/videos/2015/03/clips/87829__TPL_.mp4
+https://video3.xhcdn.com/key=3Qd57DXib3ZGS76Qmq12ww,end=1689112800/data=177.200.14.122-mv/media=hls4/002/991/377/720p.h264.mp4.m3u8
 
 #EXTINF:-1 tvg-id="adultos" tvg-name= "adultos" tvg-logo="https://gogosmart.pro/wp-content/uploads/2022/11/18.jpg" group-title="Canais",Adultos
 https://dash-s7-n10-nl-cdn.eporner.com/hls/srv9/8449211-720p.mp4/index-v1-a1.m3u8?hash=V25VPyy3rLlUahsU0nA_JQ&expires=1689148955&ip=177.200.14.122&id=8449211
@@ -88,10 +88,10 @@ https://dash-s1-n10-nl-cdn.eporner.com/hls/srv5/8151177-2160p.mp4/index-v1-a1.m3
 https://dash-s17-n10-nl-cdn.eporner.com/hls/srv8/7951096-2160p.mp4/index-v1-a1.m3u8?hash=lbfjgxtSTN4KEpfSUDRsaA&expires=1689149666&ip=177.200.14.122&id=7951096
 
 #EXTINF:-1 tvg-id="adultos" tvg-name= "adultos" tvg-logo="https://gogosmart.pro/wp-content/uploads/2022/11/18.jpg" group-title="Canais",Adultos
-https://dash-s27-n10-fr-cdn.eporner.com/hls/srv5/8351184-2160p.mp4/index-v1-a1.m3u8?hash=2eiXL9egQfFJUxsoaKuGJw&expires=1689149817&ip=177.200.14.122&id=8351184
 
+https://video3.xhcdn.com/key=tnO5ajjJFyYJHactzyp-mA,end=1689112800/data=177.200.14.122-mv/media=hls4/023/436/479/1080p.av1.mp4.m3u8
 #EXTINF:-1 tvg-id="adultos" tvg-name= "adultos" tvg-logo="https://gogosmart.pro/wp-content/uploads/2022/11/18.jpg" group-title="Canais",Adultos
-https://dash-s3-c10-fr-cdn.eporner.com/hls/srv6/7373445-1080p.mp4/index-v1-a1.m3u8?hash=-ABOdm06SfpCD6QRRwnxow&expires=1689149973&ip=177.200.14.122&id=7373445
+https://video-lmo.xhcdn.com/token=nva=1689112800~dirs=5~hash=0dd036bfeb9fb0a4fc3d2/media=hls4/multi=256x144:144p,426x240:240p,854x480:480p,1280x720:720p,1920x1080:1080p/023/391/310/1080p.h264.mp4.m3u8
 
 #EXTINF:-1 tvg-id="adultos" tvg-name= "adultos" tvg-logo="https://gogosmart.pro/wp-content/uploads/2022/11/18.jpg" group-title="Canais",Adultos
 https://dash-s1-c10-de-cdn.eporner.com/hls/v1/8151177-,240,360,480,720,1080,1440,2160,p.mp4.urlset/index-f7-v1-a1.m3u8?hash=GNjfctWdiJBDtkcidXXFKA&expires=1689186672&ip=177.200.14.122&id=8151177
